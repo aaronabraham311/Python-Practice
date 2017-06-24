@@ -1,0 +1,8 @@
+The following programs were made in grade 9 using C++, but are now written in Python. They are organized categorically:
+ 
+Input and Output
+  1. Hyphenate Full Name
+  2. Pythagoras' Theorem 
+  3. Digit identification 
+  4. Initialize name
+  5. Cow and Chicken Legs
